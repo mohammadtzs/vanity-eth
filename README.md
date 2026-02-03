@@ -5,7 +5,7 @@
 [![Code style](https://flat.badgen.net/badge/code%20style/prettier/ff69b4)](https://github.com/bokub/prettier-config)
 [![Maintainability](https://flat.badgen.net/codeclimate/maintainability/bokub/vanity-eth)](https://codeclimate.com/github/bokub/vanity-eth/maintainability)
 
-Browser-based ETH vanity address generator
+Browser-based ETH vanity address generator.
 
 Just type [`vanity-eth.tk`](https://vanity-eth.tk) to use it ⚡️
 
